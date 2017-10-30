@@ -1,3 +1,5 @@
+// in need of a royal rework, and testing
+
 'use strict'
 
 function Player () {
