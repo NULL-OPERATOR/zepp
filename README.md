@@ -2,7 +2,7 @@
 
 to make an .io game
 
-
+note: this is not nearly finished, and not nearly tested either: view at your own risk
 
 
 #### todos
